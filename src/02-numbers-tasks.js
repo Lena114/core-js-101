@@ -241,3 +241,4 @@ module.exports = {
   isPrime,
   toNumber,
 };
+
